@@ -1,0 +1,26 @@
+{
+  "name": "parcial2_aw",
+  "version": "1.0.0",
+  "description": "parcial2 AW",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon /src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saulix187203/Parcial2_AW.git"
+  },
+  "author": "Saulix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saulix187203/Parcial2_AW/issues"
+  },
+  "homepage": "https://github.com/Saulix187203/Parcial2_AW#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
